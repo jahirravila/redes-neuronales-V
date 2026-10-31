@@ -1,0 +1,39 @@
+{
+  "N_AUG": 15,
+  "margen": 0.2,
+  "tripletas_por_epoca_A": 11456,
+  "A": {
+    "epocas": 40,
+    "loss_inicial": 2.394963118284108e-05,
+    "loss_final": 3.5878317690761395e-06,
+    "tripletas_ok_final": 1.0,
+    "tiempo_s": 84.3,
+    "params_entrenables": 65920
+  },
+  "B": {
+    "epocas": 40,
+    "loss_inicial": 0.13553188874401859,
+    "loss_final": 0.0663282355324849,
+    "tripletas_ok_final": 0.8631284916201117,
+    "tiempo_s": 1018.8,
+    "params_entrenables": 250144
+  },
+  "separacion": {
+    "FaceNet pre-entrenado (sin ajuste)": {
+      "d_genuina_media": 0.24674531817436218,
+      "d_impostor_media": 1.835536241531372,
+      "d_prima": 6.483379364013672
+    },
+    "A. FaceNet + cabeza siamesa": {
+      "d_genuina_media": 0.19966891407966614,
+      "d_impostor_media": 1.820181131362915,
+      "d_prima": 4.829380989074707
+    },
+    "B. CNN desde cero": {
+      "d_genuina_media": 0.0955289825797081,
+      "d_impostor_media": 0.4859403371810913,
+      "d_prima": 1.692236065864563
+    }
+  },
+  "facenet_params": 22808144
+}

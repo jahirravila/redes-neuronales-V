@@ -1,0 +1,4 @@
+# Google Colab ya trae TensorFlow, OpenCV, scikit-learn y matplotlib; instalar además:
+deepface>=0.0.93     # pesos públicos de FaceNet (Inception-ResNet v1, 128-d)
+tf-keras>=2.16       # API Keras 2 que usa el FaceNet de deepface
+mtcnn>=1.0           # detección de rostros + 5 puntos faciales

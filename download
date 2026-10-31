@@ -1,0 +1,7 @@
+# Datos personales: NUNCA subir fotos ni rostros procesados
+dataset_propio/
+*.zip
+procesado/
+modelos/
+__pycache__/
+.ipynb_checkpoints/

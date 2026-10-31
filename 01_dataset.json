@@ -1,0 +1,710 @@
+{
+  "fuente": "orl",
+  "personas": 40,
+  "fotos": 400,
+  "usables": 399,
+  "descartadas_sin_rostro": 1,
+  "borrosas": 0,
+  "umbral_nitidez": 54.165200191879265,
+  "no_vistas": [
+    "s3",
+    "s4",
+    "s8",
+    "s15",
+    "s16",
+    "s22",
+    "s25",
+    "s27",
+    "s31",
+    "s40"
+  ],
+  "imagenes_por_conjunto": {
+    "train": 179,
+    "test": 120,
+    "no_vista": 100
+  },
+  "particion": [
+    {
+      "persona": "s1",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s2",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s3",
+      "train": 0,
+      "test": 0,
+      "no_vista": 10
+    },
+    {
+      "persona": "s4",
+      "train": 0,
+      "test": 0,
+      "no_vista": 10
+    },
+    {
+      "persona": "s5",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s6",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s7",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s8",
+      "train": 0,
+      "test": 0,
+      "no_vista": 10
+    },
+    {
+      "persona": "s9",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s10",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s11",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s12",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s13",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s14",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s15",
+      "train": 0,
+      "test": 0,
+      "no_vista": 10
+    },
+    {
+      "persona": "s16",
+      "train": 0,
+      "test": 0,
+      "no_vista": 10
+    },
+    {
+      "persona": "s17",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s18",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s19",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s20",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s21",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s22",
+      "train": 0,
+      "test": 0,
+      "no_vista": 10
+    },
+    {
+      "persona": "s23",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s24",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s25",
+      "train": 0,
+      "test": 0,
+      "no_vista": 10
+    },
+    {
+      "persona": "s26",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s27",
+      "train": 0,
+      "test": 0,
+      "no_vista": 10
+    },
+    {
+      "persona": "s28",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s29",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s30",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s31",
+      "train": 0,
+      "test": 0,
+      "no_vista": 10
+    },
+    {
+      "persona": "s32",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s33",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s34",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s35",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s36",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s37",
+      "train": 5,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s38",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s39",
+      "train": 6,
+      "test": 4,
+      "no_vista": 0
+    },
+    {
+      "persona": "s40",
+      "train": 0,
+      "test": 0,
+      "no_vista": 10
+    }
+  ],
+  "calidad": [
+    {
+      "persona": "s1",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.998,
+      "nitidez_mediana": 195.9599,
+      "brillo_medio": 125.534
+    },
+    {
+      "persona": "s10",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9983,
+      "nitidez_mediana": 172.9874,
+      "brillo_medio": 103.9102
+    },
+    {
+      "persona": "s11",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9984,
+      "nitidez_mediana": 449.7173,
+      "brillo_medio": 97.1407
+    },
+    {
+      "persona": "s12",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9994,
+      "nitidez_mediana": 183.9497,
+      "brillo_medio": 113.4887
+    },
+    {
+      "persona": "s13",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9992,
+      "nitidez_mediana": 317.6996,
+      "brillo_medio": 119.9216
+    },
+    {
+      "persona": "s14",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9971,
+      "nitidez_mediana": 438.2504,
+      "brillo_medio": 98.267
+    },
+    {
+      "persona": "s15",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9955,
+      "nitidez_mediana": 294.8976,
+      "brillo_medio": 108.6235
+    },
+    {
+      "persona": "s16",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9925,
+      "nitidez_mediana": 316.2482,
+      "brillo_medio": 112.5215
+    },
+    {
+      "persona": "s17",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9913,
+      "nitidez_mediana": 286.249,
+      "brillo_medio": 112.3618
+    },
+    {
+      "persona": "s18",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9983,
+      "nitidez_mediana": 192.4263,
+      "brillo_medio": 129.5426
+    },
+    {
+      "persona": "s19",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9995,
+      "nitidez_mediana": 202.7329,
+      "brillo_medio": 112.0337
+    },
+    {
+      "persona": "s2",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9979,
+      "nitidez_mediana": 364.1475,
+      "brillo_medio": 111.8239
+    },
+    {
+      "persona": "s20",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9985,
+      "nitidez_mediana": 321.1958,
+      "brillo_medio": 101.2994
+    },
+    {
+      "persona": "s21",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9989,
+      "nitidez_mediana": 156.1875,
+      "brillo_medio": 104.9705
+    },
+    {
+      "persona": "s22",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9995,
+      "nitidez_mediana": 339.2533,
+      "brillo_medio": 83.2154
+    },
+    {
+      "persona": "s23",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9997,
+      "nitidez_mediana": 99.1537,
+      "brillo_medio": 112.7114
+    },
+    {
+      "persona": "s24",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9949,
+      "nitidez_mediana": 245.8068,
+      "brillo_medio": 99.3147
+    },
+    {
+      "persona": "s25",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9972,
+      "nitidez_mediana": 160.9198,
+      "brillo_medio": 120.9833
+    },
+    {
+      "persona": "s26",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9993,
+      "nitidez_mediana": 134.8098,
+      "brillo_medio": 115.7211
+    },
+    {
+      "persona": "s27",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9992,
+      "nitidez_mediana": 458.98,
+      "brillo_medio": 103.4949
+    },
+    {
+      "persona": "s28",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9983,
+      "nitidez_mediana": 387.7448,
+      "brillo_medio": 105.4277
+    },
+    {
+      "persona": "s29",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9959,
+      "nitidez_mediana": 164.001,
+      "brillo_medio": 90.7827
+    },
+    {
+      "persona": "s3",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.999,
+      "nitidez_mediana": 136.0585,
+      "brillo_medio": 110.2727
+    },
+    {
+      "persona": "s30",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9991,
+      "nitidez_mediana": 120.2347,
+      "brillo_medio": 106.0845
+    },
+    {
+      "persona": "s31",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9985,
+      "nitidez_mediana": 430.6074,
+      "brillo_medio": 108.8289
+    },
+    {
+      "persona": "s32",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9915,
+      "nitidez_mediana": 430.7882,
+      "brillo_medio": 120.2838
+    },
+    {
+      "persona": "s33",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9993,
+      "nitidez_mediana": 209.8488,
+      "brillo_medio": 96.5615
+    },
+    {
+      "persona": "s34",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9982,
+      "nitidez_mediana": 450.8588,
+      "brillo_medio": 96.2116
+    },
+    {
+      "persona": "s35",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.998,
+      "nitidez_mediana": 209.4149,
+      "brillo_medio": 118.4595
+    },
+    {
+      "persona": "s36",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9973,
+      "nitidez_mediana": 362.1065,
+      "brillo_medio": 114.871
+    },
+    {
+      "persona": "s37",
+      "fotos": 10,
+      "sin_rostro": 1,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 9,
+      "confianza_media": 0.8916,
+      "nitidez_mediana": 388.6701,
+      "brillo_medio": 90.4656
+    },
+    {
+      "persona": "s38",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9988,
+      "nitidez_mediana": 178.0851,
+      "brillo_medio": 108.8451
+    },
+    {
+      "persona": "s39",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9977,
+      "nitidez_mediana": 129.5902,
+      "brillo_medio": 84.5096
+    },
+    {
+      "persona": "s4",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9987,
+      "nitidez_mediana": 234.6397,
+      "brillo_medio": 113.8806
+    },
+    {
+      "persona": "s40",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.999,
+      "nitidez_mediana": 131.7368,
+      "brillo_medio": 119.9254
+    },
+    {
+      "persona": "s5",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9988,
+      "nitidez_mediana": 104.6844,
+      "brillo_medio": 131.8173
+    },
+    {
+      "persona": "s6",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9994,
+      "nitidez_mediana": 237.8668,
+      "brillo_medio": 143.3364
+    },
+    {
+      "persona": "s7",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9987,
+      "nitidez_mediana": 340.8122,
+      "brillo_medio": 119.0154
+    },
+    {
+      "persona": "s8",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9995,
+      "nitidez_mediana": 131.5987,
+      "brillo_medio": 108.7514
+    },
+    {
+      "persona": "s9",
+      "fotos": 10,
+      "sin_rostro": 0,
+      "varios_rostros": 0,
+      "borrosas": 0,
+      "usables": 10,
+      "confianza_media": 0.9987,
+      "nitidez_mediana": 164.8232,
+      "brillo_medio": 113.2388
+    }
+  ]
+}
