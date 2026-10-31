@@ -1,6 +1,6 @@
 # Redes Neuronales V — Reconocimiento facial con redes siamesas y Triplet Loss
 
-**Repositorio:** URL_DEL_REPOSITORIO
+
 
 Red neuronal siamesa en **TensorFlow + Keras** para verificación e identificación de rostros con **Triplet Loss** (minado de tripletas semi-difíciles), con pruebas **one-shot**, **few-shot** y **zero-shot**.
 
